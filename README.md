@@ -7,7 +7,14 @@ Momento 2 de avaliação contínua 2022/23
 
 Trabalho para a disciplina de Sistemas de Informação e Bases de Dados na UMAIA desenvolvido pelo Grupo 04
 
-André Guimarães - 40091 | Gonçalo Dinis - 40927 | José Soares - 40080
+<hr>
+
+**Grupo**
+André Guimarães - 40091
+
+Gonçalo Dinis - 40927
+
+José Soares - 40080
 
 <hr>
 
