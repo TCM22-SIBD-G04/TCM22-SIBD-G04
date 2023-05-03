@@ -1,0 +1,38 @@
+Momento 2 de avaliação contínua 2022/23
+
+Escola
+
+<hr>
+Trabalho para a disciplina de Sistemas de Informação e Bases de Dados na UMAIA desenvolvido pelo Grupo 04
+
+André Guimarães - 40091 | Gonçalo Dinis - 40927 | José Soares - 40080
+
+Descrição Breve do projeto:
+
+Este projeto trata-se de proceder à análise de um problema de informatização de um Sistema de Informação, com especial enfoque no estudo e definição do
+modelo de dados a implementar.
+Este problema foi criado por nós e deveremos procurar uma maneira de o resolucionar recorrendo à criação de um modelo de dados
+
+Organização do Reportório
+
+Relatórios na pasta designada: Documentos
+
+Gallery
+
+<img title="Diagrama" alt="Diagrama" src="/Momento 2 - G04/Gallery/Diagram1.png">
+
+Softwares e Tecnologias:
+
+[VS Code](https://code.visualstudio.com/)
+[DiaPortable](https://portableapps.com/apps/office/dia_portable)
+
+Relatórios:
+
+[Proposta Base de Dados - M2](PropostaBaseDados.pdf)
+[Relatório de Especificação da Informação](PropostaBaseDados.pdf)
+
+
+Relatório de Especificação da Informação
+Índice
+Introdução
+Especificação de Requisitos
