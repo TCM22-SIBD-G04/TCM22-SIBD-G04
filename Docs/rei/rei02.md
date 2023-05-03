@@ -18,8 +18,6 @@ As suas funcionalidades são:
 - Criar e manter a interface do sistema para uso eficaz
 - Criar e manter acesso codificado à plataforma (usuário e palavra-passe associada)
 
-<hr>
-
 ---
 [< Previous](rei01.md) | [^ Main](https://github.com/JoseMSoares/TCM22-SIBD-G04) | [Next >](rei03.md)
 :--- | :---: | ---: 
