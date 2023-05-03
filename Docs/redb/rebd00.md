@@ -11,7 +11,9 @@
 ## Group _04_
 
 André Guimarães - 40091
+
 Gonçalo Dinis - 40927
+
 José Soares - 40080
 
 ---
