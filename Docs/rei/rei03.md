@@ -2,7 +2,7 @@
 
 ## Modelo E/A
 
-<img title="Diagrama" alt="Diagrama" src="/Momento 2 - G04/Diagram1.png">
+<img title="Diagrama" alt="Diagrama" src="/Docs/Diagram1.png">
 
 Neste esquema conceptual mostramos os conteudos que pertencem ao utilizador, o que este regista e assim como a informação toda pretendida.
 
