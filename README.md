@@ -102,7 +102,7 @@ Vamos portanto catalogar toda esta informação, de maneira a ficar melhor organ
 
 <hr>
 
-C2 - Especificação de Requisitos:
+Especificação de Requisitos:
 
 Descrição dos requisitos para um sistema de informação de uma universidade que permite gerir os docentes e estudantes bem como as suas disciplinas, projetos e departamentos. Este sistema será utilizado pela universidade, mais especificamente os gestores do mesmo e qualquer chefe de departamento.
 
@@ -118,6 +118,20 @@ As suas funcionalidades são:
 - Manter a base de dados relevante
 - Criar e manter a interface do sistema para uso eficaz
 - Criar e manter acesso codificado à plataforma (usuário e palavra-passe associada)
+
+<hr>
+<hr>
+
+C2 - Esquema Conceptual:
+
+**Modelo E/A**
+
+<img title="Diagrama" alt="Diagrama" src="/Momento 2 - G04/Gallery/Diagram1.png">
+
+Regras de Negócio adicionais:
+
+
+
 
 
 
