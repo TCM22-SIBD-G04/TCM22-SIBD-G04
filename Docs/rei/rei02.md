@@ -1,11 +1,11 @@
 # C2 : Especificação de Requisitos
 
 
-Especificação de Requisitos:
+## Especificação de Requisitos:
 
 Descrição dos requisitos para um sistema de informação de uma universidade que permite gerir os docentes e estudantes bem como as suas disciplinas, projetos e departamentos. Este sistema será utilizado pela universidade, mais especificamente os gestores do mesmo e qualquer chefe de departamento.
 
-Descrição dos requisitos do utilizador:
+## Descrição dos requisitos do utilizador:
 
 Os tipos de utilizadores  do sistema de informação e as funcionalidade a queestes terão acesso são:
 
