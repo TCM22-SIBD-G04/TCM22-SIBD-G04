@@ -15,6 +15,5 @@ Gonçalo Dinis - 40927
 José Soares - 40080
 
 ---
-_You can add a footer menu for navigation_ 
 < Previous | [^ Main](https://github.com/exemploTrabalho/reportSIBD/) | [Next >](rebd01.md)
 :--- | :---: | ---: 
