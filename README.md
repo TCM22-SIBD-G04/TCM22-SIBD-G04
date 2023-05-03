@@ -34,7 +34,7 @@ Relatórios na pasta designada: Documentos
 
 **Gallery**
 
-<img title="Diagrama" alt="Diagrama" src="/Momento 2 - G04/Gallery/Diagram1.png">
+<img title="Diagrama" alt="Diagrama" src="/Momento 2 - G04/Diagram1.png">
 
 <hr>
 
@@ -52,7 +52,6 @@ Relatórios na pasta designada: Documentos
 
 [Relatório de Especificação da Informação](https://github.com/JoseMSoares/TCM22-SIBD-G04/blob/74567ec05de9463f95cb0663200d56e587aa46fc/Momento%202%20-%20G04/PropostaBaseDados.pdf)
 
-[Diagrama](https://github.com/JoseMSoares/TCM22-SIBD-G04/blob/main/Momento%202%20-%20G04/Diagrama.dia)
 
 <hr>
 <hr>
@@ -126,7 +125,7 @@ C2 - Esquema Conceptual:
 
 **Modelo E/A**
 
-<img title="Diagrama" alt="Diagrama" src="/Momento 2 - G04/Gallery/Diagram1.png">
+<img title="Diagrama" alt="Diagrama" src="/Momento 2 - G04/Diagram1.png">
 
 Neste esquema conceptual mostramos os conteudos que pertencem ao utilizador, o que este regista e assim como a informação toda pretendida.
 
