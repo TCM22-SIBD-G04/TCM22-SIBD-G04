@@ -21,6 +21,5 @@ As suas funcionalidades são:
 <hr>
 
 ---
----
 [< Previous](rei01.md) | [^ Main](https://github.com/JoseMSoares/TCM22-SIBD-G04) | [Next >](rei03.md)
 :--- | :---: | ---: 

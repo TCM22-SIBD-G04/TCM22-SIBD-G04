@@ -14,6 +14,5 @@ Departamentos só podem ter um número, nome, escritório e apenas gerido por um
 
 
 ---
----
 [< Previous](rei02.md) | [^ Main](https://github.com/JoseMSoares/TCM22-SIBD-G04) | [Next >](rei04.md)
 :--- | :---: | ---: 
