@@ -49,7 +49,7 @@ Relatórios na pasta designada: Documentos
 
 [Proposta Base de Dados - M2](https://github.com/JoseMSoares/TCM22-SIBD-G04/blob/74567ec05de9463f95cb0663200d56e587aa46fc/Momento%202%20-%20G04/PropostaBaseDados.pdf)
 
-[Relatório de Especificação da Informação](https://github.com/JoseMSoares/TCM22-SIBD-G04/blob/36e6d373b854814925036f35b0b6f81f62e17bf1/rei/rei.md)
+[Relatório de Especificação da Informação](https://github.com/JoseMSoares/TCM22-SIBD-G04/blob/1d8883926bb623f247a3fbeb9f4cb5dd8c30c752/Docs/rei/rei00.md)
 
 
 <hr>
