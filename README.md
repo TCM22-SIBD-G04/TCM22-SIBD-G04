@@ -41,8 +41,10 @@ Relatórios na pasta designada: Documentos
 
 **Relatórios:**
 
-[Proposta Base de Dados - M2](PropostaBaseDados.pdf)
-[Relatório de Especificação da Informação](PropostaBaseDados.pdf)
+[Proposta Base de Dados - M2](https://github.com/JoseMSoares/TCM22-SIBD-G04/blob/74567ec05de9463f95cb0663200d56e587aa46fc/Momento%202%20-%20G04/PropostaBaseDados.pdf)
+
+[Relatório de Especificação da Informação](https://github.com/JoseMSoares/TCM22-SIBD-G04/blob/74567ec05de9463f95cb0663200d56e587aa46fc/Momento%202%20-%20G04/PropostaBaseDados.pdf)
+
 [Diagrama](https://github.com/JoseMSoares/TCM22-SIBD-G04/blob/main/Momento%202%20-%20G04/Diagrama.dia)
 
 <hr>
