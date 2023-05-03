@@ -18,3 +18,7 @@ As suas funcionalidades são:
 - Criar e manter acesso codificado à plataforma (usuário e palavra-passe associada)
 
 <hr>
+
+---
+< Previous | [^ Main](https://github.com/exemploTrabalho/reportSIBD/) | [Next >](rebd01.md)
+:--- | :---: | ---: 

@@ -12,3 +12,7 @@ Projetos só podem ter um número, gerido por um professor, um organismo financi
 Estudantes só podem ter um número de contribuinte
 Departamentos só podem ter um número, nome, escritório e apenas gerido por um professor
 
+
+---
+< Previous | [^ Main](https://github.com/exemploTrabalho/reportSIBD/) | [Next >](rebd01.md)
+:--- | :---: | ---: 
