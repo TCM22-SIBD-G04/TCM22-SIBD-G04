@@ -41,8 +41,8 @@ Relatórios na pasta designada: Documentos
 
 **Relatórios:**
 
-[Proposta Base de Dados - M2](PropostaBaseDados.pdf)
-[Relatório de Especificação da Informação](PropostaBaseDados.pdf)
+[Proposta Base de Dados - M2](Momento 2 - G04/PropostaBaseDados.pdf)
+[Relatório de Especificação da Informação](Momento 2 - G04/PropostaBaseDados.pdf)
 
 <hr>
 <hr>
