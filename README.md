@@ -3,7 +3,6 @@ Momento 2 de avaliação contínua 2022/23
 **Escola**
 
 <hr>
-<hr>
 
 Trabalho para a disciplina de Sistemas de Informação e Bases de Dados na UMAIA desenvolvido pelo Grupo 04
 
@@ -53,5 +52,4 @@ Relatórios na pasta designada: Documentos
 [Relatório de Especificação da Informação](https://github.com/JoseMSoares/TCM22-SIBD-G04/blob/74567ec05de9463f95cb0663200d56e587aa46fc/Momento%202%20-%20G04/PropostaBaseDados.pdf)
 
 
-<hr>
 <hr>

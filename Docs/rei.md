@@ -1,8 +1,5 @@
 **Relatório de Especificação da Informação**
 
-**Índice**
-
-
 <hr>
 
 C1 - Introdução:
