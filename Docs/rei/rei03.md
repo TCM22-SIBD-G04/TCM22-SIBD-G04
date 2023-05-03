@@ -1,6 +1,6 @@
-C3 - Esquema Conceptual:
+# C3 : Esquema conceptual
 
-**Modelo E/A**
+## Modelo E/A
 
 <img title="Diagrama" alt="Diagrama" src="/Momento 2 - G04/Diagram1.png">
 
