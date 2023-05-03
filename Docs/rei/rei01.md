@@ -39,5 +39,5 @@ Cada estudante de pós-graduação tem um outro estudante mais velho que é o se
 Vamos portanto catalogar toda esta informação, de maneira a ficar melhor organizada e a ser possível a sua utilização noutros softwares e a sua própria consulta para qualquer interesse.
 
 ---
-< Previous | [^ Main](https://github.com/exemploTrabalho/reportSIBD/) | [Next >](rebd01.md)
+< Previous | [^ Main](https://github.com/JoseMSoares/TCM22-SIBD-G04) | [Next >](rei02.md)
 :--- | :---: | ---: 
