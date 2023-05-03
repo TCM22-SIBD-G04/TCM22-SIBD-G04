@@ -34,6 +34,7 @@ Relatórios na pasta designada: Documentos
 **Softwares e Tecnologias:**
 
 [VS Code](https://code.visualstudio.com/)
+
 [DiaPortable](https://portableapps.com/apps/office/dia_portable)
 
 
