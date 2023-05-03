@@ -9,7 +9,7 @@ Trabalho para a disciplina de Sistemas de Informação e Bases de Dados na UMAIA
 
 André Guimarães - 40091 | Gonçalo Dinis - 40927 | José Soares - 40080
 
-
+<hr>
 
 **Descrição Breve do projeto:**
 
@@ -17,19 +17,19 @@ Este projeto trata-se de proceder à análise de um problema de informatização
 modelo de dados a implementar.
 Este problema foi criado por nós e deveremos procurar uma maneira de o resolucionar recorrendo à criação de um modelo de dados
 
-
+<hr>
 
 **Organização do Reportório**
 
 Relatórios na pasta designada: Documentos
 
-
+<hr>
 
 **Gallery**
 
 <img title="Diagrama" alt="Diagrama" src="/Momento 2 - G04/Gallery/Diagram1.png">
 
-
+<hr>
 
 **Softwares e Tecnologias:**
 
@@ -37,8 +37,7 @@ Relatórios na pasta designada: Documentos
 
 [DiaPortable](https://portableapps.com/apps/office/dia_portable)
 
-
-
+<hr>
 
 **Relatórios:**
 
