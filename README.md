@@ -25,7 +25,7 @@ Relatórios na pasta designada: Documentos
 
 ## Gallery
 
-<img title="Diagrama" alt="Diagrama" src="/Momento 2 - G04/Diagram1.png">
+<img title="Diagrama" alt="Diagrama" src="/rei/Diagram1.png">
 
 
 ## Softwares e Tecnologias:
