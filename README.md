@@ -26,6 +26,7 @@ Relatórios na pasta designada: Documentos
 ## Gallery
 
 <img title="Diagrama" alt="Diagrama" src="Docs/Diagram1.png">
+![](Docs/rei)
 
 
 ## Softwares e Tecnologias:
