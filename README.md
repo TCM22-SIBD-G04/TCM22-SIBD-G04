@@ -27,9 +27,6 @@ Relatórios na pasta designada: Documentos
 
 |   <img title="Diagrama" alt="Diagrama" src="Docs/Diagram1.png">	|   	|   	|   	|   	|
 |--	    |-- 	|-- 	|--     |-- 	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
 
 
 ## Softwares e Tecnologias:
