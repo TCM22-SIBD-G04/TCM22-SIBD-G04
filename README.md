@@ -13,8 +13,11 @@ Este problema foi criado por nós e deveremos procurar uma maneira de o resoluci
 ## Grupo
 
 André Guimarães - 40091
+
 Gonçalo Dinis - 40927
+
 José Soares - 40080
+
 Marco Bolota - 34851
 
 
