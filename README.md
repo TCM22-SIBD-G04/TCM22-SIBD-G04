@@ -3,7 +3,6 @@
 
 Trabalho para a disciplina de Sistemas de Informação e Bases de Dados na UMAIA desenvolvido pelo Grupo 04
 
-<hr>
 ## Descrição Breve do projeto:
 
 Este projeto trata-se de proceder à análise de um problema de informatização de um Sistema de Informação, com especial enfoque no estudo e definição do
