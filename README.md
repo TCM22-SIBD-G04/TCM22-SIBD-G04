@@ -25,7 +25,7 @@ Relatórios na pasta designada: Documentos
 
 ## Gallery
 
-<img title="Diagrama" alt="Diagrama" href="TCM22-SIBD-G04/Docs/rei/Diagram1.png">
+<img title="Diagrama" alt="Diagrama" href="Docs/rei/Diagram1.png">
 
 
 ## Softwares e Tecnologias:
