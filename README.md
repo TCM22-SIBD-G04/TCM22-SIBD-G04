@@ -27,6 +27,8 @@ Relatórios na pasta designada: Documentos
 
 <img title="Diagrama" alt="Diagrama" src="Docs/Diagram1.png">
 
+[![Diagrama](Docs/Diagram1.png)](https://github.com/JoseMSoares/TCM22-SIBD-G04)
+
 ## Softwares e Tecnologias:
 
 [VS Code](https://code.visualstudio.com/)
