@@ -6,15 +6,15 @@
 
 Descrição do Trabalho:
 
+O nosso problema consta em criar e manter uma boa organização de diversos docentes, projetos, departamentos e estudantes de um polo universitário, no intuito de melhor organizar a informação e estar à "mão" para ser consultada  
+
 Para resolver este problema vamos criar um sistema de identificação que esteja conectado à base de dados central permitindo a boa organização e classificar os diferentes grupos de pessoas e estas mesmas numa dada universidade.
 
 Inicialmente iremos criar categorias para classificar de acordo com a base de dados seguindo com o procedimento de criar o sistema de maneira a melhor. Para tal consideramos que cada professor tem um NIF, nome, idade, posto e uma especialidade de investigação.
 
-Existem projetos com um número, um organismo financiador, uma data de início, uma data de final, e um orçamento.
-
-Estudantes de pós-graduação têm um número de contribuinte, um nome, uma idade, e um plano de curso (ex. mestrado, doutoramento).
-
-Cada projecto é gerido por um professor (o investigador principal do projecto).
+-Existem projetos com um número, um organismo financiador, uma data de início, uma data de final, e um orçamento.
+-Estudantes de pós-graduação têm um número de contribuinte, um nome, uma idade, e um plano de curso (ex. mestrado, doutoramento).
+-Cada projecto é gerido por um professor (o investigador principal do projecto).
 
 Cada projecto tem a participação de um ou mais professores.
 
