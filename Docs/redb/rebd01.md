@@ -37,10 +37,10 @@ Developer - responsável por manter o sistema e atualizá-lo.
 
 As suas funcionalidades são:
 
-    Criar e manter o sistema
-    Manter a base de dados relevante
-    Criar e manter a interface do sistema para uso eficaz
-    Criar e manter acesso codificado à plataforma (usuário e palavra-passe associada)
+* Criar e manter o sistema
+* Manter a base de dados relevante
+* Criar e manter a interface do sistema para uso eficaz
+* Criar e manter acesso codificado à plataforma (usuário e palavra-passe associada)
 
 
 ---
