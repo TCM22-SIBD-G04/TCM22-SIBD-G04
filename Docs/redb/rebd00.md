@@ -2,8 +2,6 @@
 
 ## Índice
 
-## Índice
-
 :[Introdução](rebd01.md)  
 :[Esquema conceptual](rebd02.md)  
 :[Normalização](rebd03.md)  
