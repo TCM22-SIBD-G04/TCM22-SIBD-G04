@@ -1,4 +1,6 @@
-# Relatório de Especificação da Base de Dados
+# Relatório de Especificação da Informação
+
+## Índice
 
 ## Índice
 
@@ -8,6 +10,7 @@
 :[Esquema Relacional](rebd04.md)  
 :[SQL](rebd05.md)  
 
+
 ## Group _04_
 
 André Guimarães - 40091
@@ -16,6 +19,8 @@ Gonçalo Dinis - 40927
 
 José Soares - 40080
 
+Marco Bolota - 34851
+
 ---
-< Previous | [^ Main](https://github.com/JoseMSoares/TCM22-SIBD-G04) | [Next >](rebd01.md)
+[< Previous](rebd00.md) | [^ Main](https://github.com/JoseMSoares/TCM22-SIBD-G04) | [Next >](rebd01.md)
 :--- | :---: | ---: 
