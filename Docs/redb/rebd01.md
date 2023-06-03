@@ -15,7 +15,6 @@ Inicialmente iremos criar categorias para classificar de acordo com a base de da
 * Existem projetos com um número, um organismo financiador, uma data de início, uma data de final, e um orçamento.
 * Cada organismo financiador possui nome e uma identificação
 * Estudantes de pós-graduação têm um número de contribuinte, um nome, uma idade, e um plano de curso (ex. mestrado, doutoramento).
-* Cada projecto é gerido por um professor (o investigador principal do projecto).
 * Cada projecto tem um ou mais estudantes de pós-graduação (conhecidos como os assistentes de investigação).
 * Sempre que um estudante de pós-graduação trabalha num projecto, terá que existir um professor a supervisionar esse trabalho. 
 * Os estudantes podem trabalhar em vários projetos com supervisores eventualmente diferentes.
