@@ -134,9 +134,9 @@ Descrição da Tabela B
 Vista 1: Vista que combina informações dos estudantes e projetos:
 ```sql
 CREATE VIEW Estudantes_Projetos AS
-SELECT e.nContribuinte, e.nome, e.plano_de_curso, p.número_Projeto, p.orçamentos
+SELECT e.nContribuinte, e.nome, e.plano_de_curso, p.numero_Projeto, p.orcamentos
 FROM Estudantes e
-JOIN Projetos p ON e.nContribuinte = p.número_nContribuinte_Estudantes;
+JOIN Projetos p ON e.nContribuinte = p.numero_nContribuinte_Estudantes;
 ```
 
 Vista 2: Vista que dispõe os professores e seus respectivos departamentos:
@@ -150,7 +150,7 @@ JOIN Departamento d ON pr.nContribuinte = d.nContribuinte_Professores;
 Vista 3: Vista que mostra informações dos projetos com os nomes dos organismo financiadores correspondentes:
 ```sql
 CREATE VIEW Projetos_OrganismosFinanciadores AS
-SELECT p.número_Projeto, p.orçamentos, o.nome AS organismo_financiador_nome
+SELECT p.numero_Projeto, p.orcamentos, o.nome AS organismo_financiador_nome
 FROM Projetos p
-JOIN Organismo_financiador o ON p.identificação_OrganismoFinanciador = o.identificação;
+JOIN Organismo_financiador o ON p.identificacao_OrganismoFinanciador = o.identificacao;
 ```

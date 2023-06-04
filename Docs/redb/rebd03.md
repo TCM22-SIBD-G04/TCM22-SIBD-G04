@@ -3,6 +3,7 @@
 ## Relações
 
 * Passo 1 – Entidades-tipo
+
 Estudantes (nContribuinte, plano_de_curso, nome, dataNascimentoEst)
 
 Projetos (orçamentos, dtFinal, dtIncio, número)
@@ -16,6 +17,7 @@ Organismo financiador (identificação, nome)
 <hr>
 
 * Passo 2 –   associação 1:1
+
 Estudantes (nContribuinte, plano_de_curso, nome, dataNascimentoEst)
 
 Projetos (orçamentos, dtFinal, dtIncio, número #nContribuinte > Professores)
@@ -29,6 +31,7 @@ Organismo financiador (identificação, nome)
 <hr>
 
 * Passo 3 –   associação 1:N
+
 Estudantes (nContribuinte, plano_de_curso, nome, dataNascimentoEst, #número > Departamento)
 
 Projetos (orçamentos, dtFinal, dtIncio, número #nContribuinte > Professores, #identificação > Organismo Financiador)
@@ -42,6 +45,7 @@ Organismo financiador (identificação, nome)
 <hr>
 
 * Passo 4 –   associação N:M
+
 Estudantes (nContribuinte, plano_de_curso, nome, dataNascimentoEst, #número > Departamento) 
 
 Projetos (orçamentos, dtFinal, dtIncio, número #nContribuinte > Professores, #identificação > Organismo Financiador)
@@ -59,6 +63,7 @@ Tem ( #nContribuinte > Estudantes, #número > Projetos)
 <hr>
 
 * Resultado:
+
 Estudantes (nContribuinte, plano_de_curso, nome, dataNascimentoEst, #número > Departamento) 
 
 Projetos (orçamentos, dtFinal, dtIncio, número #nContribuinte > Professores, #identificação > Organismo Financiador)
@@ -78,11 +83,13 @@ Tem ( #nContribuinte > Estudantes, #número > Projetos)
 ## Normalização do Esquema Relacional
 
 * 1ª Forma Normal (1NF)
+
 Verificamos que todos os atributos contêm valores atómicos e que não existem repetições de grupos de valores.
 
 Não tendo atributos de multivalor, e sendo os valores destes atómicos, verificamos que está na 1NF
 
 * 2ª Forma Normal (2NF)
+
 Verificamos se todos os atributos que não sejam chaves dependem totalmente da chave primária
 
 Uma vez que não existem dependências parciais, verificamos que está na 2NF
