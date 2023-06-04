@@ -53,6 +53,7 @@ CREATE TABLE Organismo_financiador (
 
 ## DML
 
+```
 -- Inserção de dados na tabela Estudantes
 INSERT INTO Estudantes (nContribuinte, plano_de_curso, nome, dataNascimentoEst, número_Departamento)
 VALUES (12345, 'Plano A', 'João', '2000-01-01', 1),
@@ -74,7 +75,7 @@ VALUES (1, 'Departamento A', 'Escritório A', 12345),
        (2, 'Departamento B', 'Escritório B', 67890);
 
 --
-
+```
 
 ---
 [< Previous](rebd04.md) | [^ Main](https://github.com/JoseMSoares/TCM22-SIBD-G04)
