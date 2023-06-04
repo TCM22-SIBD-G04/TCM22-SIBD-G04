@@ -2,17 +2,17 @@
 _(Apresentar o esquema físico da Base de Dados. Para cada relação resultante, apresente a descrição da tabela correspondente usando o exemplo apresentado.)_
 
 - [Relações](#relações)
-  - [Tabela_a](#tabela_a)
-  - [Tabela_b](#tabela_b)
+  - [Tabela_Estudantes](#Tabela_Estudantes)
+  - [Tabela_Projetos](#Tabela_Projetos)
+  - [Tabela_Professores](#Tabela_Estudantes)
+  - [Tabela_Departamento](#Tabela_Departamento)
+  - [Tabela_Organismo_financiador](#Tabela_Organismo_financiador)
+  
 - [Vistas](#vistas)
 
 ## Relações
 
-### Tabela Estudantes:
-
-#### DESCRIÇÃO <!-- omit in toc -->
-
-Descrição da Tabela A
+### Tabela_Estudantes:
 
 #### COLUNAS <!-- omit in toc -->
 
@@ -33,11 +33,8 @@ Descrição da Tabela A
 | Unicidade (valores únicos) | nContribuinte (cada número de contribuinte deve ser único)           |
 | Referencial (chaves estrangeiras) | número_Departamento (deve referenciar um número de departamento existente) |
 
-### Tabela Projetos:
+### Tabela_Projetos:
 
-#### DESCRIÇÃO <!-- omit in toc -->
-
-Descrição da Tabela B
 
 #### COLUNAS <!-- omit in toc -->
 
@@ -59,11 +56,8 @@ Descrição da Tabela B
 | Referencial (chaves estrangeiras) | número_nContribuinte_Professores (deve referenciar um número de contribuinte de professor existente) |
 | Referencial (chaves estrangeiras) | identificação_OrganismoFinanciador (deve referenciar uma identificação de organismo financiador existente) |
 
-### Tabela Professores:
+### Tabela_Professores:
 
-#### DESCRIÇÃO <!-- omit in toc -->
-
-Descrição da Tabela B
 
 #### COLUNAS <!-- omit in toc -->
 
@@ -83,11 +77,7 @@ Descrição da Tabela B
 | Chave Primária            | nContribuinte (deve ser único para cada professor)                    |
 | Unicidade (valores únicos) | nContribuinte (cada número de contribuinte deve ser único)           |
 
-### Tabela Departamento:
-
-#### DESCRIÇÃO <!-- omit in toc -->
-
-Descrição da Tabela B
+### Tabela_Departamento:
 
 #### COLUNAS <!-- omit in toc -->
 
@@ -109,11 +99,7 @@ Descrição da Tabela B
 
 
 
-### Tabela Organismo financiador:
-
-#### DESCRIÇÃO <!-- omit in toc -->
-
-Descrição da Tabela B
+### Tabela_Organismo_financiador:
 
 #### COLUNAS <!-- omit in toc -->
 
