@@ -110,5 +110,5 @@ No modelo atual, todas as dependências são determinadas pelas chaves primária
 
 Uma vez que não existem dependências de multivalor, verificamos que está na 4NF
 ---
-[< Previous](rebd02.md) | [^ Main](https://github.com/exemploTrabalho/reportSIBD/) | [Next >](rebd04.md)
+[< Previous](rebd02.md) | [^ Main](https://github.com/JoseMSoares/TCM22-SIBD-G04) | [Next >](rebd04.md)
 :--- | :---: | ---: 
