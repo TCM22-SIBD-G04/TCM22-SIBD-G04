@@ -75,7 +75,7 @@ VALUES (1, 'Departamento A', 'Escritório A', 12345),
        (2, 'Departamento B', 'Escritório B', 67890);
 
 
-```sql
+```
 
 ---
 [< Previous](rebd04.md) | [^ Main](https://github.com/JoseMSoares/TCM22-SIBD-G04)
