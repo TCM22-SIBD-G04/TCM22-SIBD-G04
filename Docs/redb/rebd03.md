@@ -91,7 +91,7 @@ Uma vez que não existem dependências parciais, verificamos que está na 2NF
 
 Verificamos a existência de dependências transitivas e removemos qualquer dependência onde um atributo dependa de outro atributo não chave.
 
-<img title="3NF" alt="3NF" src="/Docs/NORMALIZAÇão-01.jpg">
+<img title="3NF" alt="3NF" src="/Docs/NORMALIZAÇÃO-01.jpg">
 
 * Forma Normal de Boyce-Codd (BCNF)
 
