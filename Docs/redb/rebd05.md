@@ -69,12 +69,6 @@ INSERT INTO Professores (nContribuinte, dataNascimento, nome, especialidade, pos
 VALUES (12345, '1975-03-15', 'Professor A', 'Matemática', 'Titular'),
        (67890, '1980-07-20', 'Professor B', 'Física', 'Adjunto');
 
--- tabela Departamento
-INSERT INTO Departamento (número_Departamento, nome, escritório, nContribuinte_Professores)
-VALUES (1, 'Departamento A', 'Escritório A', 12345),
-       (2, 'Departamento B', 'Escritório B', 67890);
-
-
 ```
 
 ---
