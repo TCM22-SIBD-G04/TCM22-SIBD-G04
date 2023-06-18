@@ -30,8 +30,8 @@ Source code is in the [SRC](src/)
 ## Gallery
 
 
-|Modelo EA|Normalização|           |
-|-----------|-----------|-----------|
+|Modelo EA|Normalização|
+|-----------|-----------|
 |   <img title="Diagrama" alt="Diagrama" src="Docs/Diagram1.png">  |  <img title="3NF" alt="3NF" src="Docs/NORMALIZAÇÃO-01.jpg">  |
 
 
