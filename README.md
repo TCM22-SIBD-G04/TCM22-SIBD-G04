@@ -23,16 +23,15 @@ Marco Bolota - 34851
 
 ## Organização do Reportório
 
-Relatórios na pasta designada: Documentos
-
+Relatórios na pasta designada: [doc folder](doc/)
+Source code is in the [src folder](src/)
 
 ## Gallery
 
 
 |Modelo EA|Normalização|           |
 |-----------|-----------|-----------|
-|   <img title="Diagrama" alt="Diagrama" src="Docs/Diagram1.png">  |  <img title="3NF" alt="3NF" src="Docs/NORMALIZAÇÃO-01.jpg">  |   Data 3  |
-|   Data 4  |   Data 5  |   Data 6  |
+|   <img title="Diagrama" alt="Diagrama" src="Docs/Diagram1.png">  |  <img title="3NF" alt="3NF" src="Docs/NORMALIZAÇÃO-01.jpg">  |
 
 
 ## Softwares e Tecnologias:
