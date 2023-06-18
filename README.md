@@ -23,7 +23,8 @@ Marco Bolota - 34851
 
 ## Organização do Reportório
 
-Relatórios na pasta designada: [doc folder](doc/)
+Relatórios na pasta designada: [doc folder](Docs/)
+
 Source code is in the [src folder](src/)
 
 ## Gallery
