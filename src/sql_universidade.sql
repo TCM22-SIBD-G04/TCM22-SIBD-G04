@@ -1,3 +1,5 @@
+DROP DATABASE IF EXISTS universidade;
+CREATE DATABASE IF NOT EXISTS universidade;
 use universidade;
 
 DROP TABLE IF EXISTS Projetos;
